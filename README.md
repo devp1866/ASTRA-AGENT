@@ -24,6 +24,7 @@ It combines **natural language understanding (LLaMA)**, **fast inference (Groq)*
 | 🎨 **Streamlit-Based UI** | Minimal, dark-themed interface for seamless human-AI interaction. |
 
 ---
+## 🧰 Tech Stack 
 
 | Category            | Tools / Frameworks                                                  |
 | ------------------- | ------------------------------------------------------------------- |
@@ -39,25 +40,22 @@ It combines **natural language understanding (LLaMA)**, **fast inference (Groq)*
 
 ## 🌐 Future Enhancements
 
-🗣️ Voice interaction & text-to-speech
+- 🗣️ Voice interaction & text-to-speech
 
-🧩 Multi-model hybrid inference (LLaMA + Mistral)
+- 🧩 Multi-model hybrid inference (LLaMA + Mistral)
 
-📊 Real-time usage analytics
+- 📊 Real-time usage analytics
 
-🔍 Semantic search on past sessions
+- 🔍 Semantic search on past sessions
 
-💬 Multi-agent collaboration & role-based tasks
+- 💬 Multi-agent collaboration & role-based tasks
 
 
-## 👨‍💻 Developer - Devkumar Patel
-🎓 Computer Engineer | Data Science & Frontend Enthusiast
-
-🌐 Portfolio → [Devkumar Patel](https://devp1866@gmail.com)
-
-📫 Email → devp1866@gmail.com
-
-⭐ GitHub → [@devp1866](https://github.com/devp1866)
+## 👨‍💻 Author
+- 🧩 Devkumar Patel
+- 🌐 Portfolio → [Devkumar Patel](https://devp1866@gmail.com)
+- 📧 Email: devp1866@gmail.com
+- 🔗 GitHub: https://github.com/devp1866
 
 
 **Built with precision, intelligence, and vision — by Devkumar Patel.**
