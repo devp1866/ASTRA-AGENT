@@ -1,6 +1,6 @@
 # 🚀 ASTRA-AI: Support & Task Response Assistant
 
-**ASTRA App Link → [ASTRA](https://astra-agent-dev.streamlit.app)**
+**ASTRA App Link → [ASTRA - Advanced Support & Task Response Assistant](https://astra-agent-dev.streamlit.app)**
 
 **ASTRA-AI (Advanced Support & Task Response Assistant)** is an intelligent, context-aware conversational AI system built on **Meta’s LLaMA model accelerated via Groq API**, designed for next-generation customer support and task automation — with modular architecture and a sleek Streamlit interface.
 
