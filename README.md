@@ -58,3 +58,6 @@ It combines **natural language understanding (LLaMA)**, **fast inference (Groq)*
 📫 Email → devp1866@gmail.com
 
 ⭐ GitHub → [@devp1866](https://github.com/devp1866)
+
+
+**Built with precision, intelligence, and vision — by Devkumar Patel.**
